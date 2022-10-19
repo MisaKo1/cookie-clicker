@@ -9,7 +9,7 @@
 
 #counter {
     text-align: center;
-    font-size: 24px;
+    font-size: 32px;
     font-family: 'Peralta', cursive;
     color:white
 }
@@ -17,4 +17,22 @@
 body {
     background: url("../img/jjba\ picture.jpg");
     background-size:cover
+}
+
+#clickUpgrade{
+    margin:0 auto;
+    display: block;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+
+}
+
+
+#autoclickerUpgrade{
+    margin:0 auto;
+    display: block;
+    font-size: 20px;
+    color: white;
+    background-color: black;
 }
