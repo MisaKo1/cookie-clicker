@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Peralta&display=swap');
+
+#cookie {
+    max-width: 240px;
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+#counter {
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Peralta', cursive;
+    color:white
+}
+
+body {
+    background: url("../img/jjba\ picture.jpg");
+    background-size:cover
+}
